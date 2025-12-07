@@ -46,7 +46,7 @@ export const Differentials = () => {
           <p className="font-mono text-sm text-primary mb-2">04 —</p>
           <h2 className="text-3xl md:text-5xl font-bold mb-6">Meus valores</h2>
           <p className="text-xl text-muted-foreground">
-            Tudo que faço é focado em entregar valor real para o seu negócio, com transparência e comunicação clara:
+            Tudo que faço é focado em entregar valor real para o seu negócio, com transparência e comunicação clara: 
           </p>
         </motion.div>
 
