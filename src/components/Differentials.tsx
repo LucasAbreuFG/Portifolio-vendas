@@ -44,9 +44,9 @@ export const Differentials = () => {
           className="max-w-4xl mx-auto mb-16"
         >
           <p className="font-mono text-sm text-primary mb-2">04 —</p>
-          <h2 className="text-3xl md:text-5xl font-bold mb-6">3 pacotes claros com linguagem de negócio (não técnica):</h2>
+          <h2 className="text-3xl md:text-5xl font-bold mb-6">Meus valores</h2>
           <p className="text-xl text-muted-foreground">
-            O mercado está cheio de desenvolvedores. Aqui está o que me diferencia da média:
+            Tudo que faço é focado em entregar valor real para o seu negócio, com transparência e comunicação clara:
           </p>
         </motion.div>
 
